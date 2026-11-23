@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 550" role="img" aria-labelledby="title">
+  <title id="title">Универсальная заглушка документа для портфолио</title>
+  <rect width="400" height="550" rx="12" fill="#e9f0f2"/>
+  <rect x="54" y="49" width="292" height="452" rx="11" fill="#ffffff" stroke="#c9d9df" stroke-width="2"/>
+  <rect x="93" y="94" width="214" height="7" rx="3" fill="#0b6170"/>
+  <rect x="93" y="128" width="168" height="6" rx="3" fill="#b5c9d0"/>
+  <rect x="93" y="151" width="214" height="6" rx="3" fill="#d2dfe4"/>
+  <rect x="93" y="174" width="192" height="6" rx="3" fill="#d2dfe4"/>
+  <rect x="93" y="197" width="214" height="6" rx="3" fill="#d2dfe4"/>
+  <rect x="93" y="220" width="181" height="6" rx="3" fill="#d2dfe4"/>
+  <rect x="93" y="271" width="214" height="6" rx="3" fill="#d2dfe4"/>
+  <rect x="93" y="294" width="195" height="6" rx="3" fill="#d2dfe4"/>
+  <rect x="93" y="317" width="214" height="6" rx="3" fill="#d2dfe4"/>
+  <rect x="93" y="340" width="151" height="6" rx="3" fill="#d2dfe4"/>
+  <circle cx="252" cy="408" r="33" fill="none" stroke="#e5a47a" stroke-width="3"/>
+  <path d="M95 439c29-25 56 12 92-11" fill="none" stroke="#8ca4ae" stroke-width="3" stroke-linecap="round"/>
+  <rect y="470" width="400" height="80" rx="0" fill="#0a1d2b"/>
+  <text x="200" y="505" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="17" font-weight="bold">ПОРТФОЛИО · ДЕМО</text>
+  <text x="200" y="528" text-anchor="middle" fill="#c8d9e0" font-family="Arial,sans-serif" font-size="13">Оригинал не опубликован</text>
+</svg>

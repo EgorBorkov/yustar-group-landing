@@ -1,0 +1,24 @@
+# Server-side secrets, app credentials and runtime data
+config.php
+.env
+.env.*
+!.env.example
+vendor/
+runtime/
+*consent-receipts*
+rate-*.json
+*.pem
+*.key
+
+# Operating-system / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.bak
+
+# Local checks
+node_modules/
+test-results/
+playwright-report/

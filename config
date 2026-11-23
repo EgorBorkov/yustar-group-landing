@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = EgorBorkov
+	email = 99601026+EgorBorkov@users.noreply.github.com

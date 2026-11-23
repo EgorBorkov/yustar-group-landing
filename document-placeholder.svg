@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Демонстрация просмотра документа</title>
+  <desc id="desc">Исходные письма и сертификаты заказчика не включены в публичную версию портфолио.</desc>
+  <rect width="800" height="1100" fill="#eff4f6"/>
+  <rect x="86" y="72" width="628" height="950" rx="20" fill="#fff" stroke="#cad8de" stroke-width="2"/>
+  <rect x="156" y="160" width="488" height="12" rx="6" fill="#0b6170"/>
+  <rect x="156" y="215" width="390" height="10" rx="5" fill="#cad8de"/>
+  <rect x="156" y="257" width="488" height="10" rx="5" fill="#cad8de"/>
+  <rect x="156" y="299" width="442" height="10" rx="5" fill="#cad8de"/>
+  <rect x="156" y="341" width="460" height="10" rx="5" fill="#cad8de"/>
+  <rect x="156" y="383" width="390" height="10" rx="5" fill="#cad8de"/>
+  <rect x="156" y="500" width="488" height="246" rx="12" fill="#edf5f5" stroke="#cde1e1"/>
+  <text x="400" y="581" text-anchor="middle" fill="#0a1d2b" font-family="Arial,sans-serif" font-size="29" font-weight="bold">Портфолио-демо</text>
+  <text x="400" y="631" text-anchor="middle" fill="#45616f" font-family="Arial,sans-serif" font-size="20">Предпросмотр документа работает.</text>
+  <text x="400" y="665" text-anchor="middle" fill="#45616f" font-family="Arial,sans-serif" font-size="20">Сканы заказчика не публикуются.</text>
+  <rect x="156" y="830" width="300" height="10" rx="5" fill="#cad8de"/>
+  <rect x="156" y="870" width="210" height="10" rx="5" fill="#cad8de"/>
+</svg>
